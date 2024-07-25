@@ -444,7 +444,9 @@ nav h1 {
     height: 10vmin;
     width: 10vmin;
     border-radius: 50%;
-    padding: 1vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #p212:hover {
